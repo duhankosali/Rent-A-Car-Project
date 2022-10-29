@@ -1,0 +1,9 @@
+package kodlama.io.rentACar.webApi.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController // annotation (C# daki :Controller gibi bir mantığı var)
+@RequestMapping("/api/brands")
+public class BrandsController {
+
+}
